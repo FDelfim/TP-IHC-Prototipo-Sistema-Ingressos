@@ -1,0 +1,61 @@
+body{
+    background-color: #0b0b0b !important;
+}
+
+.main-content{
+    color: #fff;
+    padding: 0;
+    margin: 0;
+    height: 100%;
+    width: 100%;
+}
+
+.nome-filme{
+    font-size: 6rem;
+    font-weight: 300;
+    text-transform: uppercase;
+    text-align: start;
+}
+
+.lancamento{
+    font-size: 2rem;
+    font-weight: 300;
+    text-transform: uppercase;
+    text-align: start;
+}
+
+.titulo{
+    font-size: 2rem;
+    font-weight: 300;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.descricao{
+    margin: 0;
+    font-size: 1.2rem;
+    font-weight: 300;
+    text-align: start;
+}
+
+.classificacao{
+    margin: 0;
+    padding: 4px 5px;
+    font-size: 1.3rem;
+    font-weight: bold;
+    background-color: yellow;
+    color: black;
+    border-radius: 3px;
+}
+
+.assento{
+    height: 40px;
+    width: 40px;
+}
+
+.secoes{
+
+    background-color: #fff;
+    border-radius: 10px;
+    color: black;
+}

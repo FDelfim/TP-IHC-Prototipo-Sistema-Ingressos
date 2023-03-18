@@ -1,0 +1,45 @@
+$white: #fff;
+.margin-top50 {
+  margin-top: 50px;
+  margin-left: 30px;
+}
+.credit {
+  margin-top: 15px;
+  height: 180px;
+  width: 320px;
+  border: 0;
+  border-radius: 10px;
+  background: linear-gradient(to top, #000000 0%, #2c2c2c 100%);
+  color: $white;
+  &__bank {
+    font-size: 22px;
+    font-weight: bold;
+  }
+  &__mc {
+    width: 80px;
+    float: right;
+  }
+  &__card-number {
+    height: 1px;
+    padding-top: 40px;
+    font-weight: 600;
+    font-size: 18px;
+    letter-spacing: 2px;
+  }
+  &__ccv {
+    height: 24px;
+    float: right;
+    margin-top: -10px;
+    text-transform: uppercase;
+  }
+  &__name,
+  &__date{
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 16px;
+    height: 30px;
+  }
+  label {
+    color: $white;
+  }
+}

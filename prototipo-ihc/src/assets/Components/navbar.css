@@ -1,0 +1,16 @@
+.nav{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 100;
+}
+
+.item{
+    font-weight: 400;
+    text-transform: uppercase;
+}
+
+.item:hover{
+    background-color: #fff;
+    color: #000;
+}
