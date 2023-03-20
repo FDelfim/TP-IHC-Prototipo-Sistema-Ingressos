@@ -52,7 +52,7 @@ Ao acessar com o sistema o usuário possui algumas opções, mas inicialmente é
 
 Ao selecionar um filme, o usuário é redirecionado para a página de compras, onde pode escolher os assentos, bem com as seções, tipo de ingresso e idioma do filme.
 
-![Tela de compra](https://user-images.githubusercontent.com/38048491/226178564-75df2bc4-2219-4714-8064-55a71a330fbd.png)
+![image](https://user-images.githubusercontent.com/38048491/226464898-67247228-1141-466b-a728-89603632a4c8.png)
 
 ## Página de pagamento
 
