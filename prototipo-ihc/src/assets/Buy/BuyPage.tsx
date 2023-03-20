@@ -44,7 +44,7 @@ export default function BuyPage() {
                                 </div>
                             </div>
                             <div className='d-flex align-items-center col-lg-6'>
-                            <h5 className='me-2'>Seção:</h5>
+                            <h5 className='me-2'>Sessão:</h5>
                                 <div className='d-flex mb-3'>
                                     <button className='btn btn-primary me-1 text-start'> 12:00 - 15:30h <br/> Data: 19/03/2023</button>
                                     <button className='btn btn-outline-light text-start me-1'> 16:00 - 19:30h <br/> Data: 19/03/2023 </button>
