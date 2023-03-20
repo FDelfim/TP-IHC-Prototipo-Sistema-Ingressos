@@ -11,6 +11,6 @@ import '../node_modules/bootstrap/dist/css/bootstrap.min.css'
 
 ReactDOM.createRoot(document.getElementById('root') as HTMLElement).render(
   <React.StrictMode>
-    <Recover />
+    <BuyPage />
   </React.StrictMode>,
 )
